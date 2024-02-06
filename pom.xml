@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.byteup</groupId>
 	<artifactId>hello-docker</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>hello-docker</name>
 	<description>Project for sample docker with java</description>
 	<properties>
