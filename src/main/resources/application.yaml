@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://postgres:5432/dockerdb?createDatabaseIfNotExist=true&autoReconnect=true&useSSL=false
+    username: dockeruser
+    password: dockerpassword
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
