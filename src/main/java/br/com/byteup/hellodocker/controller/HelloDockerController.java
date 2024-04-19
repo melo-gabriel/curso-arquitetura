@@ -24,7 +24,7 @@ public class HelloDockerController {
 
 	@GetMapping
 	public String helloDocker() {
-		return "Hello world! ByteUpAcademy tutorial";
+		return "Hello Docker";
 	}
 
 	@PostMapping("/cadastrar")
